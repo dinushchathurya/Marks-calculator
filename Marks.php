@@ -7,7 +7,7 @@
 
 <body>
     <?php
-    //get the name from 
+   
 	$name=$_REQUEST["uname"];
 	$s1=$_REQUEST["sub1"];
 	$s2=$_REQUEST["sub2"];
